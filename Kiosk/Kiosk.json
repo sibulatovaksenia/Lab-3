@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Newspaper A",
+    "type": "газета",
+    "quantity": 34,
+    "price": 17.0
+  },
+  {
+    "name": "Magazine A",
+    "type": "журнал",
+    "quantity": 14,
+    "price": 40.0
+  },
+  {
+    "name": "Newspaper B",
+    "type": "газета",
+    "quantity": 33,
+    "price": 15.0
+  },
+  {
+    "name": "Magazine B",
+    "type": "журнал",
+    "quantity": 10,
+    "price": 20.0
+  },
+  {
+    "name": "Magazine C",
+    "type": "журнал",
+    "quantity": 5,
+    "price": 30.0
+  }
+]
